@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-1549 3152 27 27">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-search);
+      }
+
+      .cls-2 {
+        fill: #ededed;
+      }
+    </style>
+    <clipPath id="clip-search">
+      <rect x="-1549" y="3152" width="27" height="27"/>
+    </clipPath>
+  </defs>
+  <g id="search" class="cls-1">
+    <path id="search-2" data-name="search" class="cls-2" d="M25,23.022l-7.381-7.381a9.828,9.828,0,1,0-1.978,1.978L23.022,25ZM.932,9.79A8.857,8.857,0,1,1,9.79,18.647,8.867,8.867,0,0,1,.932,9.79Z" transform="translate(-1547.61 3153.39)"/>
+  </g>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="592 370 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-not-yet);
+      }
+
+      .cls-2 {
+        fill: #95989a;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-not-yet">
+      <rect x="592" y="370" width="50" height="50"/>
+    </clipPath>
+  </defs>
+  <g id="not-yet" class="cls-1">
+    <rect class="cls-4" x="592" y="370" width="50" height="50"/>
+    <g id="error" transform="translate(592 370)">
+      <circle id="Ellipse_1" data-name="Ellipse 1" class="cls-2" cx="25" cy="25" r="25"/>
+      <path id="Tracé_1" data-name="Tracé 1" class="cls-3" d="M16,34l9-9,9-9"/>
+      <path id="Tracé_2" data-name="Tracé 2" class="cls-3" d="M16,16l9,9,9,9"/>
+    </g>
+  </g>
+</svg>

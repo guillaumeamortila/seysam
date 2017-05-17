@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="449 -217 513 477">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-likes);
+      }
+
+      .cls-2 {
+        fill: #b9bbbd;
+      }
+    </style>
+    <clipPath id="clip-likes">
+      <rect x="449" y="-217" width="513" height="477"/>
+    </clipPath>
+  </defs>
+  <g id="likes" class="cls-1">
+    <path id="likes-2" data-name="likes" class="cls-2" d="M254.966,85.374c20.705-49.075,68-83.364,123.02-83.364,74.109,0,127.483,63.4,134.193,138.954,0,0,3.622,18.756-4.35,52.522-10.855,45.986-36.372,86.842-70.775,118.023L254.966,473.969,75.946,311.5c-34.4-31.171-59.92-72.037-70.775-118.023C-2.8,159.71.821,140.954.821,140.954,7.531,65.4,60.9,2,135.014,2,190.04,2,234.261,36.3,254.966,85.374Z" transform="translate(449 -217.969)"/>
+  </g>
+</svg>
